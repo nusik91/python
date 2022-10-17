@@ -6,4 +6,4 @@
 
 n = int(input('Введите целое число: '))
 for number in range(-n, n+1):
-    print(number)
+    print(number, end=" ")
